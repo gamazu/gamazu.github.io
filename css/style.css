@@ -1,3 +1,13 @@
+.projects-list{
+	display: flex;
+	justify-content: space-between;
+}
+
+.projects-item{
+	list-style: none;
+}
+
 .preview-image{
 	border-radius: 10px;
+	border: 2px solid rgb(24, 76, 101);
 }
