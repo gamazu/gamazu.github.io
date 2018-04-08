@@ -344,42 +344,42 @@ body
 
 .pad-icon
 {
-    background-image: url(../img/sprite.png);
+    background-image: url(../img/sprite-icons.png);
     background-repeat: no-repeat;
     background-position: -5px -7px;
 }
 
 .psd-icon
 {
-    background-image: url(../img/sprite.png);
+    background-image: url(../img/sprite-icons.png);
     background-repeat: no-repeat;
     background-position: -69px -3px;
 }
 
 .folder-icon
 {
-    background-image: url(../img/sprite.png);
+    background-image: url(../img/sprite-icons.png);
     background-repeat: no-repeat;
     background-position: -132px -4px;
 }
 
 .tag-icon
 {
-    background-image: url(../img/sprite.png);
+    background-image: url(../img/sprite-icons.png);
     background-repeat: no-repeat;
     background-position: -6px 85%;
 }
 
 .mail-icon
 {
-    background-image: url(../img/sprite.png);
+    background-image: url(../img/sprite-icons.png);
     background-repeat: no-repeat;
     background-position: 53% 93%;
 }
 
 .download-icon
 {
-    background-image: url(../img/sprite.png);
+    background-image: url(../img/sprite-icons.png);
     background-repeat: no-repeat;
     background-position: 96% 94%;
 }
