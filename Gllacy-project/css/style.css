@@ -2945,22 +2945,3 @@ body
 				transform: translateX(10px);
 	}
 }
-
-.link-home{
-	display: block;
-	position: fixed;
-	top: 20%;
-    left: 90%;
-    z-index: 11;
-    background-color: rgb(194, 14, 43);
-	box-sizing: border-box;
-	color: #fff;
-    font-size: 14px;
-    text-decoration: none;
-    font-weight: bold;
-    text-align: center;
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
-    padding-top: 25px;
-}
